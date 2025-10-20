@@ -129,7 +129,7 @@ Spell Actions Face Down
 <img width="77" height="177" alt="image" src="https://github.com/user-attachments/assets/44b54e35-43fa-451d-8d82-358f10ce6ba4" />
 Trap Actions Face Up
 <img width="77" height="195" alt="image" src="https://github.com/user-attachments/assets/245f53fa-173f-4078-890f-b2e589200988" />
-Spell Actions Face Down
+Trap Actions Face Down
 <img width="81" height="177" alt="image" src="https://github.com/user-attachments/assets/182bca66-69fa-4358-871b-0841cb7d2cd1" />
 
 ## GRAVEYARD
