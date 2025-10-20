@@ -111,6 +111,7 @@ Trap Actions
 <img width="128" height="173" alt="image" src="https://github.com/user-attachments/assets/e70d1d5b-5bc0-4c0d-a1b6-e1571d91f0b5" />
 
 ## FIELD
+![Summoned monster example](https://github.com/user-attachments/assets/8bd28ece-06cc-4e1d-855a-6a14a4bd6a1a)
 <img width="76" height="200" alt="image" src="https://github.com/user-attachments/assets/8bd28ece-06cc-4e1d-855a-6a14a4bd6a1a" />
 <img width="112" height="206" alt="image" src="https://github.com/user-attachments/assets/a3d0a5b0-e7a4-44f7-8ed5-9ab9d0c39a80" />
 <img width="111" height="196" alt="image" src="https://github.com/user-attachments/assets/1d3f06d1-bfc6-48a7-8292-7961bdbd7b72" />
