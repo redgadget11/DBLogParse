@@ -88,3 +88,5 @@ While in hand, and of the following kind while on field (BTH is set in S-3 "spel
 
 **The majority of the issues with this project arise from id maintenance and following cards from action to action. **
 
+# Extracting Data
+Data extraction happens from 3 places within the individual "play" log. The "card" property itself if we are lucky, the "public_log" property or "private_log" otherwise. The parsing of logs is difficult as for most actions logs differ in implementation, however there is a "log_message" parser that works okayish already implemented. It could be updated and simplified.
