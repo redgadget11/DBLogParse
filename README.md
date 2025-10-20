@@ -133,36 +133,54 @@ Trap Actions Face Down
 <img width="81" height="177" alt="image" src="https://github.com/user-attachments/assets/182bca66-69fa-4358-871b-0841cb7d2cd1" />
 
 ## GRAVEYARD
+Monster Actions
 <img width="79" height="159" alt="image" src="https://github.com/user-attachments/assets/736401d3-2fe1-4c7e-9ec5-a9faae3cb117" />
+Extra Monster Actions
 <img width="86" height="171" alt="image" src="https://github.com/user-attachments/assets/584bb78d-7946-4fcd-8a6a-9af1a647ef11" />
+Spell Actions
 <img width="74" height="157" alt="image" src="https://github.com/user-attachments/assets/60adfb2f-8ab4-4acd-99eb-967b0b619e41" />
+Trap Actions
 <img width="78" height="159" alt="image" src="https://github.com/user-attachments/assets/7ccd0c19-11ad-4cc5-919b-79bcb96fc84e" />
 
 ## BANISH
+Monster Actions
 <img width="80" height="158" alt="image" src="https://github.com/user-attachments/assets/980939ac-d30d-49d6-804a-9db2a9c9d904" />
+Extra Monster Actions
 <img width="80" height="161" alt="image" src="https://github.com/user-attachments/assets/8c9a1dd9-dcec-4fd8-850e-5b0099dedb9f" />
+Spell Actions
 <img width="78" height="127" alt="image" src="https://github.com/user-attachments/assets/f0092a65-1d0d-4456-8f97-4503a8145e82" />
+Trap Actions
 <img width="81" height="129" alt="image" src="https://github.com/user-attachments/assets/ce98edd1-3125-48a5-b3b5-9c1263731fae" />
 
 ## DECK
+Monster Actions
 <img width="80" height="155" alt="image" src="https://github.com/user-attachments/assets/e13dddf9-5091-4023-837e-16e93f237306" />
+Spell Actions
 <img width="77" height="127" alt="image" src="https://github.com/user-attachments/assets/ff6d5cdc-d4e1-4254-9395-893ed591edb2" />
+Trap Actions
 <img width="77" height="127" alt="image" src="https://github.com/user-attachments/assets/7fafd407-fd96-4d61-b66b-26beb320065f" />
 
 ## EXTRA-DECK
+Extra Monster Actions
 <img width="80" height="138" alt="image" src="https://github.com/user-attachments/assets/8d997d40-0932-409b-af40-89e6e6682446" />
 
 ## OPPONENT FIELD AND HAND
 Can only Target
 
 ## OPPONENT GRAVEYARD
+Monster Actions
 <img width="80" height="102" alt="image" src="https://github.com/user-attachments/assets/38dad2a1-7d25-44f3-b4a1-fd556821ebdf" />
+Spell Actions
 <img width="81" height="79" alt="image" src="https://github.com/user-attachments/assets/b22aff74-043b-4102-a1c9-75d4a8a00f5f" />
+Trap Actions
 <img width="80" height="92" alt="image" src="https://github.com/user-attachments/assets/bb2b7c9f-1bde-4285-88ed-516bb8563f74" />
 
 ## OPPONENT BANISH
+Monster Actions
 <img width="77" height="116" alt="image" src="https://github.com/user-attachments/assets/513391f6-043a-4b26-af71-dba0560a5a70" />
+Spell Actions
 <img width="81" height="85" alt="image" src="https://github.com/user-attachments/assets/9002087c-5809-46c5-9e9a-f9ecd9287fa9" />
+Trap Actions
 <img width="76" height="89" alt="image" src="https://github.com/user-attachments/assets/6654fc31-8f07-4972-abce-3a70cbdf2600" />
 
 
