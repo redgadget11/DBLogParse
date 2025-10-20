@@ -86,7 +86,29 @@ While in hand, and of the following kind while on field (BTH is set in S-3 "spel
 ```
 "object_id" and "id" differ in a significant way and should be kept together. "id" is the id we assign when the card object is created. Each player has its own set of ids that are assigned at the start of the game. "object_id" is given by the game, however if the card is hidden we do not always obtain it immediately. It is very important to keep track of both ids as one is what we maintain and the other is how we verify (if available) who's card is it.
 
-**The majority of the issues with this project arise from id maintenance and following cards from action to action. **
+**The majority of the issues with this project arise from id maintenance and following cards from action to action.**
 
 # Extracting Data
 Data extraction happens from 3 places within the individual "play" log. The "card" property itself if we are lucky, the "public_log" property or "private_log" otherwise. The parsing of logs is difficult as for most actions logs differ in implementation, however there is a "log_message" parser that works okayish already implemented. It could be updated and simplified.
+
+The plays we are interested in are usually in the following categories:
+- Card Movement (Special summons e.g. deck/gy/hand->field, Sets hand->field) as the state should change.
+- Life points changes
+- Phase changes
+The plays we are **not** interested in are usually in the following categories (for now):
+- Players messages
+- Thumbs up
+- Any other play that does not change the gamestate.
+
+That being said, we must implement a parser that uses "card" properties, or "public/private_log" info to parse cards from "play" logs into our state. I present all possible actions from each part of the Yugioh Field such that we can address them systematically.
+
+## HAND
+Monster Actions
+<img width="128" height="227" alt="image" src="https://github.com/user-attachments/assets/919b3f80-759f-49e2-b25a-77c4fcb87ad1" />
+Spell Actions
+<img width="130" height="172" alt="image" src="https://github.com/user-attachments/assets/133476c0-2653-4729-ae2e-1ac64262d7c2" />
+Trap Actions
+<img width="128" height="173" alt="image" src="https://github.com/user-attachments/assets/e70d1d5b-5bc0-4c0d-a1b6-e1571d91f0b5" />
+
+
+
