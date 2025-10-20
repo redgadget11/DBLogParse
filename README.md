@@ -46,5 +46,41 @@ The code needs to take in a ".json" log file and extract the gamestate for each 
         "op_phase": None,
     }
 ```
-
-
+A decision was made to keep every card as an object created by the "assign_id" function. "None" values on the field and arrays should be populated by objects of this kind:
+```python
+    {
+      "name": "Bottomless Trap Hole",
+      "id": 11,
+      "state": "private",
+      "object_id": 27,
+      "battle_position": null,
+      "face_up": null
+    },
+    {
+      "name": "Blackwing - Shura the Blue Flame",
+      "id": 13,
+      "state": "private",
+      "object_id": 3,
+      "battle_position": null,
+      "face_up": null
+    }
+```
+While in hand, and of the following kind while on field (BTH is set in S-3 "spell-trap zone 3" and Shura is in in M-4 for example in face up defense):
+```python
+    {
+      "name": "Bottomless Trap Hole",
+      "id": 11,
+      "state": "private",
+      "object_id": 27,
+      "battle_position": null,
+      "face_up": False
+    },
+    {
+      "name": "Blackwing - Shura the Blue Flame",
+      "id": 13,
+      "state": "public",
+      "object_id": 3,
+      "battle_position": "DEF",
+      "face_up": True
+    }
+```
