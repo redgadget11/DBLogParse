@@ -95,6 +95,7 @@ The plays we are interested in are usually in the following categories:
 - Card Movement (Special summons e.g. deck/gy/hand->field, Sets hand->field) as the state should change.
 - Life points changes
 - Phase changes
+
 The plays we are **not** interested in are usually in the following categories (for now):
 - Players messages
 - Thumbs up
