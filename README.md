@@ -110,5 +110,41 @@ Spell Actions
 Trap Actions
 <img width="128" height="173" alt="image" src="https://github.com/user-attachments/assets/e70d1d5b-5bc0-4c0d-a1b6-e1571d91f0b5" />
 
+## FIELD
+<img width="76" height="200" alt="image" src="https://github.com/user-attachments/assets/8bd28ece-06cc-4e1d-855a-6a14a4bd6a1a" />
+<img width="112" height="206" alt="image" src="https://github.com/user-attachments/assets/a3d0a5b0-e7a4-44f7-8ed5-9ab9d0c39a80" />
+<img width="111" height="196" alt="image" src="https://github.com/user-attachments/assets/1d3f06d1-bfc6-48a7-8292-7961bdbd7b72" />
+<img width="81" height="224" alt="image" src="https://github.com/user-attachments/assets/56628cd9-0e9b-4a52-bce6-d3e8d28e66d5" />
+<img width="115" height="196" alt="image" src="https://github.com/user-attachments/assets/817106b6-171b-4521-b0f7-495d062d1d70" />
+<img width="114" height="179" alt="image" src="https://github.com/user-attachments/assets/0fc2ae36-0263-41a0-b913-0a14fbd16c3f" />
+<img width="78" height="187" alt="image" src="https://github.com/user-attachments/assets/c4543a36-87ed-4f28-a0d3-76998840790c" />
+<img width="77" height="177" alt="image" src="https://github.com/user-attachments/assets/44b54e35-43fa-451d-8d82-358f10ce6ba4" />
+<img width="77" height="195" alt="image" src="https://github.com/user-attachments/assets/245f53fa-173f-4078-890f-b2e589200988" />
+<img width="81" height="177" alt="image" src="https://github.com/user-attachments/assets/182bca66-69fa-4358-871b-0841cb7d2cd1" />
+
+
+
+## GRAVEYARD
+<img width="79" height="159" alt="image" src="https://github.com/user-attachments/assets/736401d3-2fe1-4c7e-9ec5-a9faae3cb117" />
+<img width="86" height="171" alt="image" src="https://github.com/user-attachments/assets/584bb78d-7946-4fcd-8a6a-9af1a647ef11" />
+<img width="74" height="157" alt="image" src="https://github.com/user-attachments/assets/60adfb2f-8ab4-4acd-99eb-967b0b619e41" />
+<img width="78" height="159" alt="image" src="https://github.com/user-attachments/assets/7ccd0c19-11ad-4cc5-919b-79bcb96fc84e" />
+
+## BANISH
+<img width="80" height="158" alt="image" src="https://github.com/user-attachments/assets/980939ac-d30d-49d6-804a-9db2a9c9d904" />
+<img width="80" height="161" alt="image" src="https://github.com/user-attachments/assets/8c9a1dd9-dcec-4fd8-850e-5b0099dedb9f" />
+
+<img width="78" height="127" alt="image" src="https://github.com/user-attachments/assets/f0092a65-1d0d-4456-8f97-4503a8145e82" />
+<img width="81" height="129" alt="image" src="https://github.com/user-attachments/assets/ce98edd1-3125-48a5-b3b5-9c1263731fae" />
+
+
+
+
+
+
+
+
+
+
 
 
