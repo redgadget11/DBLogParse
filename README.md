@@ -4,7 +4,7 @@ A comprehensive DuelingBook log parser designed to extract structured game data 
 # Functionality
 The code needs to take in a ".json" log file and extract the gamestate for each action/event/play. This state needs to be coherent with the gamestate shown by the DuelingBook parser for each action/event/play. In order to do so, we define a state object that should contain all the data associated with a game and turn by turn is populated and updated to reflect the gamestate. The gamestate object we use is defined bellow. If there is a need for extra properties they can and should be easily added extending our definition.
 
-```
+```python
     persistent_state = {
         # general
         "turn": 0,
@@ -46,3 +46,5 @@ The code needs to take in a ".json" log file and extract the gamestate for each 
         "op_phase": None,
     }
 ```
+
+
