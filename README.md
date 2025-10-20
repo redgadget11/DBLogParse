@@ -111,16 +111,25 @@ Trap Actions
 <img width="128" height="173" alt="image" src="https://github.com/user-attachments/assets/e70d1d5b-5bc0-4c0d-a1b6-e1571d91f0b5" />
 
 ## FIELD
-![Summoned monster example](https://github.com/user-attachments/assets/8bd28ece-06cc-4e1d-855a-6a14a4bd6a1a)
+Monster Actions Face Up ATK
 <img width="76" height="200" alt="image" src="https://github.com/user-attachments/assets/8bd28ece-06cc-4e1d-855a-6a14a4bd6a1a" />
+Monster Actions Face Up DEF
 <img width="112" height="206" alt="image" src="https://github.com/user-attachments/assets/a3d0a5b0-e7a4-44f7-8ed5-9ab9d0c39a80" />
+Monster Actions Face Down DEF
 <img width="111" height="196" alt="image" src="https://github.com/user-attachments/assets/1d3f06d1-bfc6-48a7-8292-7961bdbd7b72" />
+Extra Monster Actions Face Up ATK
 <img width="81" height="224" alt="image" src="https://github.com/user-attachments/assets/56628cd9-0e9b-4a52-bce6-d3e8d28e66d5" />
+Extra Monster Actions Face Up DEF
 <img width="115" height="196" alt="image" src="https://github.com/user-attachments/assets/817106b6-171b-4521-b0f7-495d062d1d70" />
+Extra Monster Actions Face Down ATK
 <img width="114" height="179" alt="image" src="https://github.com/user-attachments/assets/0fc2ae36-0263-41a0-b913-0a14fbd16c3f" />
+Spell Actions Face Up
 <img width="78" height="187" alt="image" src="https://github.com/user-attachments/assets/c4543a36-87ed-4f28-a0d3-76998840790c" />
+Spell Actions Face Down
 <img width="77" height="177" alt="image" src="https://github.com/user-attachments/assets/44b54e35-43fa-451d-8d82-358f10ce6ba4" />
+Trap Actions Face Up
 <img width="77" height="195" alt="image" src="https://github.com/user-attachments/assets/245f53fa-173f-4078-890f-b2e589200988" />
+Spell Actions Face Down
 <img width="81" height="177" alt="image" src="https://github.com/user-attachments/assets/182bca66-69fa-4358-871b-0841cb7d2cd1" />
 
 ## GRAVEYARD
