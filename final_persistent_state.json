@@ -1,48 +1,7 @@
 {
   "turn": 0,
   "me_life": 8000,
-  "me_hand": [
-    {
-      "name": "Black Whirlwind",
-      "id": 1,
-      "state": "private",
-      "object_id": 22,
-      "battle_position": null,
-      "face_up": null
-    },
-    {
-      "name": "Ancient Forest",
-      "id": 2,
-      "state": "private",
-      "object_id": 43,
-      "battle_position": null,
-      "face_up": null
-    },
-    {
-      "name": "Trap Dustshoot",
-      "id": 3,
-      "state": "private",
-      "object_id": 40,
-      "battle_position": null,
-      "face_up": null
-    },
-    {
-      "name": "Torrential Tribute",
-      "id": 4,
-      "state": "private",
-      "object_id": 31,
-      "battle_position": null,
-      "face_up": null
-    },
-    {
-      "name": "Blackwing - Blizzard the Far North",
-      "id": 5,
-      "state": "private",
-      "object_id": 12,
-      "battle_position": null,
-      "face_up": null
-    }
-  ],
+  "me_hand": [],
   "me_GY": [],
   "me_banished": [],
   "me_field": {
