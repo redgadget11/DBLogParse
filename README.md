@@ -1,6 +1,13 @@
 # DBLogParse
 A comprehensive DuelingBook log parser designed to extract structured game data from raw duel logs. This project enables card tracing, game state reconstruction, and data extraction for statistical analysis, machine learning, and reinforcement learning research on Yu-Gi-Oh! gameplay.
 
+# Idea
+Apply "offline reinforcement learning" to the dataset created by the parser on 2 million edison games.
+For more info on ORL:
+- https://arxiv.org/pdf/2005.01643
+- https://www.youtube.com/watch?v=tW-BNW1ApN8
+
+
 # Functionality
 The code needs to take in a ".json" log file and extract the gamestate for each action/event/play. This state needs to be coherent with the gamestate shown by the DuelingBook parser for each action/event/play. In order to do so, we define a state object that should contain all the data associated with a game and turn by turn is populated and updated to reflect the gamestate. The gamestate object we use is defined bellow. If there is a need for extra properties they can and should be easily added extending our definition.
 
